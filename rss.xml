@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The Pissed Off Report]]></title>
         <description><![CDATA[The Pissed Off Report]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.pissedoffreport.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 23:08:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Feb 2016 23:09:13 GMT</lastBuildDate>
+        <atom:link href="http://www.pissedoffreport.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/697d05d8-2936-4a4d-96a4-8b584df91317.jpg">]]></description>
-            <link>undefined5db03826-d152-490c-8cd8-2cf7f85a0548/index.html</link>
+            <link>http://www.pissedoffreport.com/5db03826-d152-490c-8cd8-2cf7f85a0548/index.html</link>
             <guid isPermaLink="false">5db03826-d152-490c-8cd8-2cf7f85a0548</guid>
-            <pubDate>Wed, 17 Feb 2016 23:08:56 GMT</pubDate>
+            <pubDate>Wed, 17 Feb 2016 23:09:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
